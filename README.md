@@ -1,4 +1,4 @@
-# Library Database Manager
+# Book Library Database Manager
 
 A beautiful, interactive command-line application for managing your book collection with Rich-formatted tables and menus.
 
