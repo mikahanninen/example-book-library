@@ -1,0 +1,61 @@
+The Odyssey/Homer/978-0140268867/-800
+The Iliad/Homer/978-0140275360/-750
+Beowulf/Unknown/978-0393320978/1000
+The Divine Comedy/Dante Alighieri/978-0142437223/1320
+The Canterbury Tales/Geoffrey Chaucer/978-0140424386/1400
+A Midsummer Night's Dream/William Shakespeare/978-0743477543/1595
+The Merchant of Venice/William Shakespeare/978-0743477567/1596
+Romeo and Juliet/William Shakespeare/978-0743477116/1597
+Julius Caesar/William Shakespeare/978-0743482745/1599
+As You Like It/William Shakespeare/978-0743484862/1599
+Hamlet/William Shakespeare/978-0743477123/1600
+Othello/William Shakespeare/978-0743477550/1603
+Don Quixote/Miguel de Cervantes/978-0060934347/1605
+King Lear/William Shakespeare/978-0743482769/1605
+Macbeth/William Shakespeare/978-0743477109/1606
+The Tempest/William Shakespeare/978-0743482837/1611
+Paradise Lost/John Milton/978-0140424393/1667
+Robinson Crusoe/Daniel Defoe/978-0141439822/1719
+Gulliver's Travels/Jonathan Swift/978-0141439495/1726
+Pride and Prejudice/Jane Austen/978-0141439518/1813
+Frankenstein/Mary Shelley/978-0141439471/1818
+Oliver Twist/Charles Dickens/978-0141439747/1838
+The Count of Monte Cristo/Alexandre Dumas/978-0140449266/1844
+The Three Musketeers/Alexandre Dumas/978-0140443714/1844
+Wuthering Heights/Emily Bronte/978-0141439556/1847
+Jane Eyre/Charlotte Bronte/978-0141441146/1847
+David Copperfield/Charles Dickens/978-0140439441/1850
+Moby-Dick/Herman Melville/978-1503280786/1851
+A Tale of Two Cities/Charles Dickens/978-0141439600/1859
+Great Expectations/Charles Dickens/978-0141439563/1861
+Les Miserables/Victor Hugo/978-0451419439/1862
+Alice's Adventures in Wonderland/Lewis Carroll/978-0141439761/1865
+Crime and Punishment/Fyodor Dostoevsky/978-0143058144/1866
+Little Women/Louisa May Alcott/978-0147514011/1868
+War and Peace/Leo Tolstoy/978-0140447934/1869
+The Adventures of Tom Sawyer/Mark Twain/978-0486400778/1876
+Anna Karenina/Leo Tolstoy/978-0143035008/1877
+The Brothers Karamazov/Fyodor Dostoevsky/978-0374528379/1880
+Treasure Island/Robert Louis Stevenson/978-0141321004/1883
+The Adventures of Huckleberry Finn/Mark Twain/978-0486280615/1884
+The Picture of Dorian Gray/Oscar Wilde/978-0141439570/1890
+The Jungle Book/Rudyard Kipling/978-0141325293/1894
+Dracula/Bram Stoker/978-0141439846/1897
+The Wonderful Wizard of Oz/L. Frank Baum/978-0486290614/1900
+The Secret Garden/Frances Hodgson Burnett/978-0141321066/1911
+Peter Pan/J.M. Barrie/978-0141321134/1911
+The Great Gatsby/F. Scott Fitzgerald/978-0743273565/1925
+Brave New World/Aldous Huxley/978-0060850524/1932
+Gone with the Wind/Margaret Mitchell/978-1451635621/1936
+The Hobbit/J.R.R. Tolkien/978-0547928227/1937
+Animal Farm/George Orwell/978-0452284244/1945
+1984/George Orwell/978-0451524935/1949
+The Chronicles of Narnia/C.S. Lewis/978-0066238500/1950
+The Catcher in the Rye/J.D. Salinger/978-0316769488/1951
+Fahrenheit 451/Ray Bradbury/978-1451673319/1953
+The Lord of the Rings/J.R.R. Tolkien/978-0544003415/1954
+To Kill a Mockingbird/Harper Lee/978-0061120084/1960
+One Hundred Years of Solitude/Gabriel Garcia Marquez/978-0060883287/1967
+The Alchemist/Paulo Coelho/978-0062315007/1988
+Harry Potter and the Sorcerer's Stone/J.K. Rowling/978-0439708180/1997
+The Hunger Games/Suzanne Collins/978-0439023481/2008
